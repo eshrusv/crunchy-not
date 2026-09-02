@@ -23,7 +23,7 @@ OWNER_ID_DEFAULT = os.getenv("OWNER_ID", "8264404281")
 # MongoDB connection URL — set here or in .env
 MONGO_URI = os.getenv(
     "MONGO_URI",
-    "mongodb+srv://Esh:1234567890ukwhat@cluster0.mnbnc7a.mongodb.net/?appName=Cluster0"
+    "mongodburl here "
 )
 MONGO_DB_NAME = "crunchyroll_bot"
 
