@@ -13,7 +13,7 @@ load_dotenv()
 
 # ─── BOT TOKEN ───────────────────────────────────────────────────────────────
 # Set your token from @BotFather here or in .env
-BOT_TOKEN = os.getenv("BOT_TOKEN", "")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8552445421:AAE3QyxzcbigbH7IQDgMbao-mXtOeJrlvS8")
 
 # ─── OWNER ID ────────────────────────────────────────────────────────────────
 # Your Telegram user ID (super-admin). Get it from @userinfobot
